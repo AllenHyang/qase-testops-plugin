@@ -1,0 +1,8 @@
+{
+  "e2eDir": "e2e/specs",
+  "outputDir": "e2e/qase",
+  "qase": {
+    "apiToken": "<YOUR_QASE_API_TOKEN>",
+    "projectCode": "<YOUR_PROJECT_CODE>"
+  }
+}

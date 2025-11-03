@@ -1,0 +1,18 @@
+{
+  "name": "qase-testops-plugin",
+  "version": "3.6.0",
+  "description": "Qase TestOps integration plugin for Playwright test management. Supports bidirectional sync, test standards review, and Code First approach.",
+  "author": {
+    "name": "Allen"
+  },
+  "keywords": [
+    "qase",
+    "testops",
+    "playwright",
+    "testing",
+    "test-management",
+    "automation"
+  ],
+  "homepage": "https://github.com/yourusername/qase-testops-plugin",
+  "license": "MIT"
+}
