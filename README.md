@@ -20,7 +20,7 @@ This plugin provides comprehensive Qase TestOps management capabilities through 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/qase-testops-plugin.git ~/.claude/plugins/qase-testops-plugin
+git clone https://github.com/AllenHyang/qase-testops-plugin.git ~/.claude/plugins/qase-testops-plugin
 
 # Restart Claude Code
 ```
@@ -125,7 +125,7 @@ qase-testops-plugin/
 
 For issues, questions, or contributions:
 
-- GitHub Issues: [https://github.com/yourusername/qase-testops-plugin/issues](https://github.com/yourusername/qase-testops-plugin/issues)
+- GitHub Issues: [https://github.com/AllenHyang/qase-testops-plugin/issues](https://github.com/AllenHyang/qase-testops-plugin/issues)
 - Documentation: See `skills/qase-testops-manager/references/` directory
 
 ## License
